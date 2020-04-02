@@ -1,2 +1,2 @@
 # stepik-seleniumWD
-123456
+Выполненные уроки курса https://stepik.org/course/575
